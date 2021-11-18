@@ -1,0 +1,35 @@
+D1
+ADMIN1 
+ariadna 
+perez
+76543
+ar.perez@edu.pe
+98765
+urbjhgfds
+casada 
+D2
+ADMIN1
+Anthony
+Rodriguez
+7265489
+anthony.rodriguez@ucsp.edu.pe
+937551208
+urb.La casita
+soltero
+D3
+ADMIN1
+Juan
+Lovaton 
+76543213
+juan@ucsp.edu.pe
+987654323456
+urb. santiago 
+soltero 
+D4
+ADMIN1
+Pepep
+Leon56897523
+pepe@ucsp.edu.pe
+98765435
+av. las palmeras 
+casado
