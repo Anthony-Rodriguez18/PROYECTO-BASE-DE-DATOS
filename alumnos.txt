@@ -1,0 +1,32 @@
+A1
+ALUM1
+Ariana
+leon
+7654321
+ariana@ucsp.edu.pe
+98765432
+urb. justicia 
+casada 
+cc
+6
+2021-01
+2
+20
+22
+1900
+A2
+ALUM2
+josue 
+carpio 
+76543212345
+josue@ucsp.edu.pe
+964878834
+av. la paz 
+caasado 
+cc
+8
+2021-01
+2
+20
+22
+2000
