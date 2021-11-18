@@ -1,0 +1,26 @@
+P1
+PROF1
+Manuel
+Loaiza
+69962442
+manuel.loaiza@ucsp.edu.pe
+963489752
+Urb. Las Palmas
+casado
+CC
+12000
+Licenceado en CC
+N
+P2
+PROF2
+Luis 
+Lacunza
+42249669
+luis.lacunza@ucsp.edu.pe
+985741236
+av.La Marina 230
+casado
+Estru.Discretas II
+7500
+DESCONOCIDO
+N
